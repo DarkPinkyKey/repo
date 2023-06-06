@@ -1,0 +1,25 @@
+*{
+    background-color: bisque;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+#caja1{
+    padding-right: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+}
+
+#caja2{
+    text-align: center;
+    padding-right: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+}
+
+#caja3{
+    text-align: right;
+    padding-right: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+}
