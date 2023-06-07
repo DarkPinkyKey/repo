@@ -1,0 +1,29 @@
+*{
+    background-color: bisque;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+#caja1{
+    text-align:start;
+    padding-right: 10px;
+    width: 350px;
+    background-color: cornflowerblue;
+    border: solid black 1px;
+}
+
+#caja2{
+    text-align: center;
+    padding-right: 10px;
+    width: 350px;
+    background-color: cornflowerblue;
+    border: solid black 1px;
+}
+
+#caja3{
+    text-align: right ;
+    padding-right: 10px;
+    width: 350px;
+    background-color: cornflowerblue;
+    border: solid black 1px;
+}
