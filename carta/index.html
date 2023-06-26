@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <img src="https://github.com/DavidBernalGonzalez/EjerciciosJQuery/blob/main/Ejercicio%20carta/card-back.png?raw=true" alt="" class="home">
+    </div>
+    <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+    <script  type='text/javascript'>
+        $(document).ready(function(){
+            $(".home").hover(
+                function() {$(this).attr("src","https://github.com/DavidBernalGonzalez/EjerciciosJQuery/blob/main/Ejercicio%20carta/card-front.png?raw=true");},
+                function() {$(this).attr("src","https://github.com/DavidBernalGonzalez/EjerciciosJQuery/blob/main/Ejercicio%20carta/card-back.png?raw=true");
+            });
+        });
+        </script>
+</body>
+</html>

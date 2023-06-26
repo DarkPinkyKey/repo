@@ -1,0 +1,37 @@
+*{
+    background-color: black;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #controls {
+    margin-top: 20px;
+  }
+  
+  #sizeRange, #intensityRange {
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 100px;
+    height: 100px;
+    background: url("boff.jpg");
+    background-size: cover;
+    border: none;
+  }
+  
+  button.on {
+    background: url("bon.jpg");
+    background-size: cover;
+  }
+  
+  #bulbImage {
+    width: 200px;
+    height: 300px;
+    margin-top: 20px;
+  }
+  
