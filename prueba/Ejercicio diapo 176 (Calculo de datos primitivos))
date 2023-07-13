@@ -1,0 +1,40 @@
+// Ejercicio diapo 176 //
+-- Calculo de rangos datos primitivos --
+
+byte:
+Cantidad de bits: 8
+Total del rango: 2^8 = 256
+Valores para positivos y negativos: 256 / 2 = 128
+
+short:
+Cantidad de bits: 16
+Total del rango: 2^16 = 65,536
+Valores para positivos y negativos: 65,536 / 2 = 32,768
+
+int:
+Cantidad de bits: 32
+Total del rango: 2^32 = 4,294,967,296
+Valores para positivos y negativos: 4,294,967,296 / 2 = 2,147,483,648
+
+long:
+Cantidad de bits: 64
+Total del rango: 2^64 = 18,446,744,073,709,551,616
+Valores para positivos y negativos: 18,446,744,073,709,551,616 / 2 = 9,223,372,036,854,775,808
+
+float:
+Cantidad de bits: 32
+Total del rango: No se calcula de esta manera debido a la representación de punto flotante.
+
+double:
+Cantidad de bits: 64
+Total del rango: No se calcula de esta manera debido a la representación de punto flotante.
+
+char:
+Cantidad de bits: 16
+Total del rango: 2^16 = 65,536
+Valores para positivos y negativos: 65,536 / 2 = 32,768
+
+boolean:
+Cantidad de bits: Depende de la implementación específica, pero generalmente se considera 8 bits (1 byte).
+Total del rango: 2^8 = 256
+Valores para positivos y negativos: 256 / 2 = 128
