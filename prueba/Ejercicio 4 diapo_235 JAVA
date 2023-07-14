@@ -1,0 +1,21 @@
+// Ejercicio 4 diapo_235//
+/*If -elseif-else*/
+public class Main {
+    public static void main(String[] args) {
+        double number = 55;
+
+        // Verifica si el número es positivo
+        if (number > 0) {
+            System.out.println("¡Es positivo!");
+        }
+        // Verifica si el número es negativo
+        else if (number < 0) {
+            System.out.println("¡Es negativo!");
+        }
+        // Si no es positivo ni negativo, es cero
+        else {
+            System.out.println("¡Es cero, na de ná!");
+        }
+    }
+}
+
