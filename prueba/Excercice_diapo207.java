@@ -8,7 +8,7 @@ public class Excercice_diapo207 {
 		System.out.println(num4 +" Es igual que " + num2 + "?" + (num4 == num2));
 		System.out.println(num2 +" Es igual que " + num3 + "?" + (num2 == num3));
 		System.out.println(num1 +" Es distinto que " + num3 + "?" + (num1 != num3));
-		System.out.println(num2 +" Es distinto que " + num2 + "?" + (num2 != num2));
+	/*	System.out.println(num2 +" Es distinto que " + num2 + "?" + (num2 != num2)); */
 		System.out.println(num4 +" Es menor que " + num3 + "?" + (num4 < num3));
 		System.out.println(num3 +" Es menor que " + num1 + "?" + (num3 < num1));
 		System.out.println(num1 +" Es mayor que " + num3 + "?" + (num1 > num3));

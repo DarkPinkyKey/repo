@@ -7,7 +7,7 @@ public class Excercice_diapo215 {
 		boolean bool1 = true; 
 		boolean bool2 = false;
 		boolean bool3 = false;
-		boolean bool4 = true;
+		/*boolean bool4 = true;*/
 
 // Creamos las comparaciones //
 		  boolean comparison1 = bool1 == !bool2;
